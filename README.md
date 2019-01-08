@@ -15,7 +15,7 @@
   * Custom Controls
   * [Custom Renderers](https://developer.xamarin.com/guides/xamarin-forms/custom-renderer/)
   * [Data Binding](https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/data_binding_basics/)
-  * IoC
+  * IoC - (_Unity v4.0.1_)
   * [Messaging Center](https://developer.xamarin.com/guides/xamarin-forms/messaging-center/)
   * [MVVM](https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/data_bindings_to_mvvm/)
   * [Styles](https://developer.xamarin.com/guides/xamarin-forms/user-interface/styles/)
